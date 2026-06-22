@@ -35,16 +35,6 @@ Requirements
 
 No external libraries are required.
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/rock-paper-scissors.git
-
-Move into the project directory:
-
-cd rock-paper-scissors
-
 Run the Game
 
 python rps.py

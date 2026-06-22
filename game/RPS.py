@@ -7,7 +7,7 @@ def RPS():
 
     options = ["stone", "paper", "scissors"]
 
-    for i in range(5):
+    while computer_score < 3 and player_score < 3:
 
         result = ""
         computer_choice = random.choice(options)
